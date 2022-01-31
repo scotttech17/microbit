@@ -1,4 +1,7 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="k`[k~cHMP^k.HkSw9F;S" x="458" y="39"><statement name="HANDLER"><block type="device_show_leds" id="H,p_.b#ww%Ddw7iVP#zL"><field name="LEDS">`
+        . . # # # 
+        . . # . . 
+        . . # . . 
+        . # # . . 
+        . # # . .
+        `</field><next><block type="playMelody" id="j@DKuY*X_^]nCX3|a.Gi"><value name="melody"><shadow type="melody_editor" id=".#%nBw:m@1V|D^K_^i.{"><field name="melody">"E E F G G F E D "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="[uBJQF)XK784NK}yh3Oc"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">200</field></shadow></value><next><block type="playMelody" id="*kCL2VR;WT+YQl!LgK1`"><value name="melody"><shadow type="melody_editor" id=":z+na^n0mU!RdbKmQp5m"><field name="melody">"C C D E E D D - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="UUZk3BZw?+#`m$=Y)D_e"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">200</field></shadow></value></block></next></block></next></block></statement></block><block type="device_forever" id="g~EO*jW^K3!#Ur.PBGHF" x="4" y="214"/></xml>
